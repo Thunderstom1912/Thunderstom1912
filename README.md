@@ -1,10 +1,10 @@
-Nice to see you. My name is Hong Phuc and I study Electrical Engineering at Ho Chi Minh City University of Technology (HCMUT) 👋👋 
+* Nice to see you. My name is Hong Phuc and I study Electrical Engineering at Ho Chi Minh City University of Technology (HCMUT) 👋👋 
 
-I'm interested in reading manga and watching anime. I'm learning parallel electrical and automation. 🌱
+* I'm interested in reading manga and watching anime. I'm learning parallel electrical and automation. 🌱
 
-I'm speaking English not good, so I hope you don't crime me 😅😅
+* I'm speaking English not good, so I hope you don't crime me 😅😅
 
-If you want to contact me, please email lamhongphuc191202@gmail.com. Thankiu 🥰🥰
+* 📫 If you want to contact me, please email lamhongphuc191202@gmail.com. Thankiu 🥰🥰
 
 
 <!---
